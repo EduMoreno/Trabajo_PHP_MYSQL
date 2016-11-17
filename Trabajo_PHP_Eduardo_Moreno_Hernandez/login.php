@@ -50,9 +50,8 @@
 <title></title>
 <link rel="stylesheet" href="acceso.css">
 </head>
-
 <body>
-
+    <div class="titulo">ZOOTROPOLIS</div>
    <div id="form-main">
             <div id="form-div">
                 <h2 style="color: white ; text-align: center; font-family: Comic sans ms;"> CONTROL DE ACCESO </h2>

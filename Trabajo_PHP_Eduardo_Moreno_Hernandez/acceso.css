@@ -4,7 +4,15 @@ html{    background:url(imagenes/zoo.jpg) no-repeat;
   background-size: cover;
   height:100%;
 }
-
+.titulo{
+    
+   text-align:center; 
+   font-size: 50px ;  
+   color:black;
+   font-weight: bold;
+   font-family: Arial;
+   
+}
 #feedback-page{
 	text-align:center;
 }

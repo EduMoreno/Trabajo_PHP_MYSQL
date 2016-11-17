@@ -4,4 +4,4 @@ Se trata de una base de datos de un zoo, cuando entras en la pagina con el usuar
 los cuales pertenecen a distintos cuidadores. Al entrar como un usuario que es cuidador solo podra ver los datos del animal que cuida 
 y no podra añadir,borrar ni modificar sus datos.
 
-<img src=" "
+<img src="https://github.com/EduMoreno/Trabajo_PHP_MYSQL/blob/master/Trabajo_PHP_Eduardo_Moreno_Hernandez/imagenes/Acceso.png" width="200px">

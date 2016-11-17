@@ -5,3 +5,7 @@ los cuales pertenecen a distintos cuidadores. Al entrar como un usuario que es c
 y no podra añadir,borrar ni modificar sus datos.
 
 <img src="https://github.com/EduMoreno/Trabajo_PHP_MYSQL/blob/master/Trabajo_PHP_Eduardo_Moreno_Hernandez/imagenes/Acceso.png" width="200px">
+<img src="https://github.com/EduMoreno/Trabajo_PHP_MYSQL/blob/master/Trabajo_PHP_Eduardo_Moreno_Hernandez/imagenes/Administrador.png" width="200px">
+<img src="https://github.com/EduMoreno/Trabajo_PHP_MYSQL/blob/master/Trabajo_PHP_Eduardo_Moreno_Hernandez/imagenes/Modificacion.png" width="200px">
+<img src="https://github.com/EduMoreno/Trabajo_PHP_MYSQL/blob/master/Trabajo_PHP_Eduardo_Moreno_Hernandez/imagenes/UsuarioJesus.png" width="200px">
+<img src="https://github.com/EduMoreno/Trabajo_PHP_MYSQL/blob/master/Trabajo_PHP_Eduardo_Moreno_Hernandez/imagenes/UsuarioAntonio.png" width="200px">

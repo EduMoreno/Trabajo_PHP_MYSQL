@@ -3,10 +3,13 @@
 <head>
   <title>Modificación de animales.</title>
 </head>  
-                <link rel="stylesheet" href="style.css">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+            <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+            <link rel="stylesheet" href="style.css">
 
 <body>
-  
+  <div class="table-responsive"> 
   <?php
 	$mysql=new mysqli("localhost","root","","zoo");
 	if ($mysql->connect_error)
@@ -19,6 +22,7 @@
     
   ?>
         <form method="post" action="Modificacion2.php">
+    
 
      <table>
             
@@ -71,7 +75,7 @@
     </td>
     <td class="td1"><input type="hidden" name="codigo" value="<?php echo $_REQUEST['codigo']; ?>">     
 
-          <input type="submit" value="Confirmar">
+          <input type="submit" class="btn btn-success" value="Confirmar">
     </td>
                       </tr>
      </table>
@@ -83,5 +87,6 @@
     $mysql->close();
 
   ?>  
+    </div>
 </body>
 </html>

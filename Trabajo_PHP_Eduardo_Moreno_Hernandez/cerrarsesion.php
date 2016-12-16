@@ -11,6 +11,6 @@
 	{
 		$usuario = $sesion->get("usuario");	
 		$sesion->termina_sesion();	
-		header("location: login.php");
+		header("location: index.html");
 	}
 ?>
